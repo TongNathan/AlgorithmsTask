@@ -1,0 +1,11 @@
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\bin\Debug\netcoreapp2.1\AlgorithmsTask.deps.json
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\bin\Debug\netcoreapp2.1\AlgorithmsTask.runtimeconfig.json
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\bin\Debug\netcoreapp2.1\AlgorithmsTask.runtimeconfig.dev.json
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\bin\Debug\netcoreapp2.1\AlgorithmsTask.dll
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\bin\Debug\netcoreapp2.1\AlgorithmsTask.pdb
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\obj\Debug\netcoreapp2.1\AlgorithmsTask.csprojAssemblyReference.cache
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\obj\Debug\netcoreapp2.1\AlgorithmsTask.csproj.CoreCompileInputs.cache
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\obj\Debug\netcoreapp2.1\AlgorithmsTask.AssemblyInfoInputs.cache
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\obj\Debug\netcoreapp2.1\AlgorithmsTask.AssemblyInfo.cs
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\obj\Debug\netcoreapp2.1\AlgorithmsTask.dll
+C:\Users\Nathan\source\repos\AlgorithmsTask\AlgorithmsTask\obj\Debug\netcoreapp2.1\AlgorithmsTask.pdb

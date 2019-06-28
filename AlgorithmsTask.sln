@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmsTask", "AlgorithmsTask\AlgorithmsTask.csproj", "{80F8BDA8-4AB9-4FE6-B1DA-0F1EE525139A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F8BDA8-4AB9-4FE6-B1DA-0F1EE525139A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F8BDA8-4AB9-4FE6-B1DA-0F1EE525139A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F8BDA8-4AB9-4FE6-B1DA-0F1EE525139A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F8BDA8-4AB9-4FE6-B1DA-0F1EE525139A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EDF1019-CC83-48CE-A949-3346585541B6}
+	EndGlobalSection
+EndGlobal
